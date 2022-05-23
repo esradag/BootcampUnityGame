@@ -104,7 +104,7 @@ oyuncu kuleyi istediği yere yerleştirebilir.
 ![Ekrangif](https://user-images.githubusercontent.com/73072424/169894941-b82779ca-9c3c-45af-ac1e-dbdd60f182b6.gif)
 
 
--Sprint Review: 5 Levelin tasarımının baştan bitirmek yerine 2 level tasarlanmıştır. 1.levelin yazılım süreci bittikten sonra diğer levellerin tasarlanması karar verilmiştir. Gerekirse level sayısı düşürülmeli. Yazılımda çıkan hatalar yeniden gözden geçirilmeye karar verilmiştir. 
+-Sprint Review: 5 Levelin tasarımının baştan bitirmek yerine 2 level tasarlanmıştır. 1.levelin yazılım süreci bittikten sonra diğer levellerin tasarlanması karar verilmiştir. Gerekirse level sayısı düşürülmeli. Yazılımdaki hataların yeniden gözden geçirililmesine karar verilmiştir. 
 
 -Sprint Retrospective:
 
