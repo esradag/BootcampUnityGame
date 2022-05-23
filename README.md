@@ -25,16 +25,19 @@ Esra Dağ - Product Owner & Scrum Master & Developer
 
 # Product Backlog URL 
 https://trello.com/invite/b/6Or7VTJs/a701bb3c3f86f12b686a5d996e05bca5/takim-161
+
 # Sprint 1 
+
 -Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
 -Sprint içinde tamamlanması tahmin edilen puan: 100 Puan
 
--Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. 4 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
 
 -Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür.  Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 -Daily Scrum: 
 Çevre modellemeleri yapıldı.
 taretler ve tank taretler modellendi.
@@ -43,6 +46,7 @@ Giriş, çıkış kapıları ve yol modellendi.
 Blenderde modellenen assetler unity ye import edildi.
 
 -Sprint board update: Sprint board screenshotları:
+
  <img width="1432" alt="1" src="https://user-images.githubusercontent.com/73072424/169894032-a9a5daa9-d4fd-449e-bd25-b4c7245496ae.png">
 <img width="1432" alt="2" src="https://user-images.githubusercontent.com/73072424/169894070-0cbaff1b-98a4-43e3-afdb-16ceb87192e8.png">
 
@@ -56,7 +60,7 @@ Blenderde modellenen assetler unity ye import edildi.
 
 ![Ekran Resmi 2022-05-23 22 27 13](https://user-images.githubusercontent.com/73072424/169893737-1a0d4855-c356-42bc-bc31-fc9f7d7b3f63.png)
 
--Sprint Review: Modellenen tank taretlerin düşman olarak kullanılması durumu yeniden değerlendirilmeli. 
+-Sprint Review: Modellenen tank taretlerin düşman olarak kullanılması durumu yeniden değerlendirilmeli. Modellemeler import edilirken blender dosyasındaki kamera ve ışık silinmediği için unity de hata verdi. Assetler yeniden düzenlenmelidir.
 
 -Sprint Retrospective:
 -Level tasarımına olabildiğince hızlı bir şekilde başlanmalı
