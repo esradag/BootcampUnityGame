@@ -38,6 +38,10 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür.  Trello'da gözüken 
 -Sprint board update: Sprint board screenshotları:
 -Sprint Review: Alınan kararlar: 
 -Ürün Durumu: Ekran görüntüleri:
+![Ekran Resmi 2022-05-23 22 26 56](https://user-images.githubusercontent.com/73072424/169893636-71c2776b-df2c-429b-b410-ff9e6fa769be.png)
+
+![Ekran Resmi 2022-05-23 22 27 13](https://user-images.githubusercontent.com/73072424/169893737-1a0d4855-c356-42bc-bc31-fc9f7d7b3f63.png)
+
 -Sprint Review: 
 
 -Sprint Retrospective:
