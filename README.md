@@ -7,12 +7,13 @@ Esra Dağ - Product Owner & Scrum Master & Developer
 - Martian Tower Defense
 
 # Ürün Açıklaması
-
+ Çeşitli düşmanları farklı silah türleri ile durdurmayı mars atmosferi ile birleştirecek oyunumuz, oyunculara keyifli aksiyon anları yaşatacak ve kuleler ve düşmanlar genellikle değişik özelliklere, fiyatlara ve geliştirmelere sahip olarak oyuncuya stratejiye doyuracak.
+ 
 # Ürün Özellikleri
 - Aksiyon ve Strateji oyunu
 - Kullanıcı dostu arayüz
 - 3D oyun
-- 
+- Kolay ve anlaşılır oynanış
 
 
 # Hedef Kitle
