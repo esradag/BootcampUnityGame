@@ -78,11 +78,13 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür.  Trello'da gözüken 
 
 <img width="1432" alt="8" src="https://user-images.githubusercontent.com/73072424/169894344-d17d1c86-a903-4fbc-86cf-b65b91b2eb9b.png">
 -Ürün Durumu: Ekran görüntüleri:
+
 ![Ekran Resmi 2022-05-23 22 32 30](https://user-images.githubusercontent.com/73072424/169894378-50170301-7504-4c07-bad9-df2d1f09bcb7.png)
 
 
+![Ekrangif](https://user-images.githubusercontent.com/73072424/169894941-b82779ca-9c3c-45af-ac1e-dbdd60f182b6.gif)
 
-https://user-images.githubusercontent.com/73072424/169894399-fe868925-fcd1-44d3-9ae4-32231eb07e7e.mov
+
 
 
 
