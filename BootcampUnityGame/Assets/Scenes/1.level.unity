@@ -6627,7 +6627,7 @@ RectTransform:
   m_GameObject: {fileID: 399286468}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 2.5, z: 1}
+  m_LocalScale: {x: 6.3041635, y: 3.3037748, z: 0.96252}
   m_Children:
   - {fileID: 848430001}
   m_Father: {fileID: 708410312}
@@ -6635,8 +6635,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 723, y: -35}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchoredPosition: {x: 364.8, y: -42.649}
+  m_SizeDelta: {x: 81.726, y: 25.818}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &399286470
 MonoBehaviour:
@@ -6645,7 +6645,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 399286468}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
   m_Name: 
@@ -6704,7 +6704,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 708410313}
         m_TargetAssemblyTypeName: Shop, Assembly-CSharp
-        m_MethodName: PurchaseMissileTurret
+        m_MethodName: SelectMissileLauncher
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -6721,7 +6721,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 399286468}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -6734,8 +6734,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 7ef0f7bd0c070465bacf2a56cc243ed0, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -10457,7 +10457,7 @@ RectTransform:
   m_GameObject: {fileID: 708410311}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.225, y: 1, z: 1}
   m_Children:
   - {fileID: 1615753569}
   - {fileID: 399286469}
@@ -10466,8 +10466,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.148}
-  m_AnchoredPosition: {x: -0.5, y: -7}
-  m_SizeDelta: {x: -1, y: 20.898193}
+  m_AnchoredPosition: {x: -25.542175, y: -3.4225006}
+  m_SizeDelta: {x: 221.5969, y: 28.0531}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &708410313
 MonoBehaviour:
@@ -10481,6 +10481,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d393c0fb6c144b8ca44605355f60857, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  standardTurret:
+    prefab: {fileID: 5478588189588256785, guid: 782317ffe5ec449da81932a03134db2a, type: 3}
+    cost: 100
+  missileLauncher:
+    prefab: {fileID: 3034953824790116435, guid: d6c26eed9080944f5b0bd06ac40fa4ff, type: 3}
+    cost: 250
 --- !u!114 &708410314
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21915,16 +21921,16 @@ RectTransform:
   m_GameObject: {fileID: 1615753568}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 2.5, z: 1}
+  m_LocalScale: {x: 5.859375, y: 3.125, z: 1.25}
   m_Children:
   - {fileID: 1394487558}
   m_Father: {fileID: 708410312}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 565, y: -35}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 329, y: 6}
+  m_SizeDelta: {x: 75, y: 25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1615753570
 MonoBehaviour:
@@ -21933,7 +21939,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1615753568}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
   m_Name: 
@@ -21992,7 +21998,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 708410313}
         m_TargetAssemblyTypeName: Shop, Assembly-CSharp
-        m_MethodName: PurchaseStandardTurret
+        m_MethodName: SelectStandardTurret
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -22009,7 +22015,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1615753568}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -22022,8 +22028,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: aa97560aa717e4e84a9ff4cfac058380, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -22471,6 +22477,7 @@ GameObject:
   - component: {fileID: 1636668739}
   - component: {fileID: 1636668738}
   - component: {fileID: 1636668740}
+  - component: {fileID: 1636668741}
   m_Layer: 0
   m_Name: GameMaster
   m_TagString: Untagged
@@ -22492,7 +22499,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   enemyPrefab: {fileID: 994861378}
   spawnPoint: {fileID: 1535864641}
-  timeBetweenWaves: 5
+  timeBetweenWaves: 5.5
   waveCountdownText: {fileID: 1444170038}
 --- !u!4 &1636668739
 Transform:
@@ -22522,7 +22529,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   standardTurretPrefab: {fileID: 5478588189588256785, guid: 782317ffe5ec449da81932a03134db2a, type: 3}
   missileLauncherPrefab: {fileID: 3034953824790116435, guid: d6c26eed9080944f5b0bd06ac40fa4ff, type: 3}
-  turretToBuild: {fileID: 3340740156153601630, guid: b01a1afef017748a4a4ef764804b6e52, type: 3}
+--- !u!114 &1636668741
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636668737}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fe3d8965fabf468ca6d60307e76cbac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startMoney: 400
 --- !u!1001 &1644854112
 PrefabInstance:
   m_ObjectHideFlags: 0
