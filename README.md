@@ -35,7 +35,10 @@ https://trello.com/invite/b/6Or7VTJs/a701bb3c3f86f12b686a5d996e05bca5/takim-161
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür.  Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 -Daily Scrum: 
+-Sprint board update: Sprint board screenshotları:
 -Sprint Review: Alınan kararlar: 
+-Ürün Durumu: Ekran görüntüleri:
+-Sprint Review: 
 
 -Sprint Retrospective:
 
