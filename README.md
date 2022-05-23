@@ -65,6 +65,7 @@ Blenderde modellenen assetler unity ye import edildi.
 -Sprint Retrospective:
 
 -Level tasarımına olabildiğince hızlı bir şekilde başlanmalı
+
 -Sprint2 de yazılım kısmına daha ağırlık verilmeli. 
 
 -Diğer Notlar:
@@ -81,12 +82,14 @@ N/A
 -Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür.  Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
 -Daily Scrum: 
 Düşmanların girş kapısında çıkış kapısına kadar belirli aralıklarla yumurtlayacak şekilde düşman dalgası oluşturuldu.
-kuleler yanından geçen düşmanlara saldırabilir.
+Kuleler yanından geçen düşmanlara saldırabilir.
 Rts formatında kamera kontrolü algoritması yazıldı.
-oyun içinde kule satın alınabilecek dükkan oluşturuldu.
-oyuncu kuleyi istediği yere yerleştirebilir.
+Oyun içinde kule satın alınabilecek dükkan oluşturuldu.
+Oyuncu kuleyi istediği yere yerleştirebilir.
+
 -Sprint board update: Sprint board screenshotları:
 
 <img width="1432" alt="5" src="https://user-images.githubusercontent.com/73072424/169894299-c5f21b70-7eb9-47ab-9e27-b1248c7d35a6.png">
