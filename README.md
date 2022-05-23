@@ -55,10 +55,11 @@ Blenderde modellenen assetler unity ye import edildi.
 
 ![Ekran Resmi 2022-05-23 22 27 13](https://user-images.githubusercontent.com/73072424/169893737-1a0d4855-c356-42bc-bc31-fc9f7d7b3f63.png)
 
--Sprint Review: 
+-Sprint Review: Modellenen tank taretlerin düşman olarak kullanılması durumu yeniden değerlendirilmeli. 
 
 -Sprint Retrospective:
-
+-Level tasarımına olabildiğince hızlı bir şekilde başlanmalı
+-Sprint2 de yazılım kısmına daha ağırlık verilmeli. 
 -Diğer Notlar:
 
 N/A
@@ -96,7 +97,18 @@ oyuncu kuleyi istediği yere yerleştirebilir.
 ![Ekrangif](https://user-images.githubusercontent.com/73072424/169894941-b82779ca-9c3c-45af-ac1e-dbdd60f182b6.gif)
 
 
+-Sprint Review: 5 Levelin tasarımının baştan bitirmek yerine 2 level tasarlandı. 1.levelin yazılım süreci bittikten sonra diğer levellerin tasarlanması 
+karar verilmiştir. Gerekirse level sayısı düşürülmeli. Yazılımda çıkan hatalar yeniden gözden geçirilmeli. 
 
+-Sprint Retrospective:
+- UI kısmını daha özen gösterilmeli. 
+- UI resimlerindeki  sorunlar çözülmeli.
+- particle effect kısmına daha özen gösterilmeli.
+
+
+-Diğer Notlar:
+
+N/A
 
 
 # Sprint 3 
