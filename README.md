@@ -122,5 +122,39 @@ N/A
 
 
 # Sprint 3 
+-Sprint Notları: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+-Sprint içinde tamamlanması tahmin edilen puan: 130 Puan
+
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. Backlog puanı 3. sprintte bölündü. 1.sprintte 100 puan tamamlandı. 2.sprinttin 130 puan olmasına karar verildi.
+
+-Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+-Daily Scrum: Düşman yumurtlama sistemi güncellendi. düşmanlar geliştirildi.Main menu, game over ve level completed ui ları oluşturuldu. 
+
+-Sprint board update: Sprint board screenshotları:
+<img width="1174" alt="Ekran Resmi 2022-06-06 23 40 24" src="https://user-images.githubusercontent.com/73072424/172245623-0f42dca6-e996-4f41-a873-a8824d979833.png">
+<img width="1174" alt="Ekran Resmi 2022-06-06 23 41 10" src="https://user-images.githubusercontent.com/73072424/172245637-b928790c-576e-4255-89e6-6120a8bfe2fa.png">
+<img width="1174" alt="Ekran Resmi 2022-06-06 23 41 51" src="https://user-images.githubusercontent.com/73072424/172245676-72ee6382-d584-4af9-a156-6cdb3554cc19.png">
+m<img width="1174" alt="Ekran Resmi 2022-06-06 23 42 25" src="https://user-images.githubusercontent.com/73072424/172245703-c6d9412f-9951-4d46-b34a-a9c86a0cb29b.png">
+
+
+-Ürün Durumu: Ekran görüntüleri:
+<img width="741" alt="Ekran Resmi 2022-06-06 23 38 59" src="https://user-images.githubusercontent.com/73072424/172245598-7948a8f1-0c8f-42ce-ba86-aa7d931e0f29.png">
+
+
+-Sprint Review: Kısıtlı zamandan dolayı oyun uiları tasarlamada pause menu yapılmadı. Oyuna müzikler eklenemedi. Taretler için upgrade sistemi geliştirilemedi.
+
+-Sprint Retrospective:
+
+-Oyun daha geliştirilebilir. 
+-Müzikler eklenebilir.
+-Reklamlar eklenebilir. 
+
+
+-Diğer Notlar:
+
+N/A
 Oyun ve Uygulama Akademisi Bootcamp 
