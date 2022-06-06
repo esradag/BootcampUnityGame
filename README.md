@@ -126,13 +126,13 @@ N/A
 
 -Sprint içinde tamamlanması tahmin edilen puan: 130 Puan
 
--Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. Backlog puanı 3. sprintte bölündü. 1.sprintte 100 puan tamamlandı. 2.sprinttin 130 puan olmasına karar verildi.
+-Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 360 puanlık backlog bulunmaktadır. Backlog puanı 3. sprintte bölündü. 1.sprintte 100 puan tamamlandı. 2.ve 3. sprintin 130 puan olmasına karar verildi. 
 
 -Backlog düzeni ve Story seçimleri: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
--Daily Scrum: Düşman yumurtlama sistemi güncellendi. düşmanlar geliştirildi.Main menu, game over ve level completed ui ları oluşturuldu. 
+-Daily Scrum: Düşman yumurtlama sistemi güncellendi. düşmanlar geliştirildi.Main menu, game over ve level completed ui ları oluşturuldu. Yazılımda çıkan hataları düzeltildi.
 
 -Sprint board update: Sprint board screenshotları:
 <img width="1174" alt="Ekran Resmi 2022-06-06 23 40 24" src="https://user-images.githubusercontent.com/73072424/172245623-0f42dca6-e996-4f41-a873-a8824d979833.png">
